@@ -1,0 +1,8 @@
+O objetivo dessa atividade é criar um campo minado.
+
+O que precisa ser feito:
+# Dificuldade:
+- FÁCIL: 10x10 10 BOMBAS
+- MÉDIO: 30x30 30 BOMBAS
+- DIFÍCIL: 50x50 90 BOMBAS
+- PERSONALIZADO: O usuário dá o input da matriz. (Altura, largura e bombas)
